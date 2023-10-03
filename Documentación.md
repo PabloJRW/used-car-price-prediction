@@ -32,4 +32,21 @@ A continuación, se presentan algunos hallazgos claves del EDA:
 ### Distribución de Precios
 
 Gráfico de Precios
+
 <img src="os.path.join('img',price.png')">
+
+### Año del Modelo
+
+Gráfico de Precios
+
+<img src="os.path.join('img',model_year_fig.png')">
+
+* <b>Tendencia Central:<b> El año promedio de fabricación de los autos en nuestra muestra es aproximadamente 2015.5. Esto indica que,
+  en promedio, los autos en nuestra muestra tienen unos 8 años de antiguedad en el momento de la observación.
+* <b>Dispersión y Variabilidad:<b> La baja desviación estándar de 6.1 sugiere que la mayoría de los autos tienen años de modelo cercanos
+  a la media (2015.5). esto refelja una relativa consistencia en la antiguedad de los autos en nuestra muestra.
+* <b>Distribución:<b> El rango de años de modelo va desde 1974 hasta 2024. El año más antiguo registrado es 1974, mientras que el más
+  reciente es 2024. Esto indica que nuestra muestra abarca un amplio período de tiempo en términos de años de modelo.
+* <b>Cuartiles:<b> El primer cuartil (25%) se encuentra en 2012, lo que significa que el 25% más antiguo de los autos en nuestra muestra
+  tiene un año de modelo igual o anterior al 2012. El tercer cuartil (75%) está en 2020, lo que significa que el 75% más antiguo de los
+  autos tiene un año igual o anterior al 2020.
