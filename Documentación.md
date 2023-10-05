@@ -26,6 +26,7 @@ este EDA es comprender cuáles son las variables que mayor correlación tienen e
 4. identificación de tendencias y relaciones.
 5. Análisis de precios en función de características clave.
 
+
 ## Exploración de Datos
 A continuación, se presentan algunos hallazgos claves del EDA:
 
@@ -42,6 +43,7 @@ Gráfico de Precios
 * El precio máximo registrado es considerablemente superior al promedio, lo que podría indicar la presencia de autos de lujo
   o valores atípicos en el mercado de autos usados.
 
+
 ### Marca de Autos
 
 Gráfico de Distribución de Marcas
@@ -55,6 +57,7 @@ Gráfico de Distribución de Marcas
   convencionales como Toyota, Nissan, Kia, entre otros.
 * La diversidad de marcas en el conjunto de datos sugiere que el mercado de autos usados es variado y ofrece opciones para una amplia gama de
   preferencias y presupuestos.
+
 
 ### Año del Modelo
 
@@ -71,3 +74,21 @@ Gráfico de Precios
 * El primer cuartil (25%) se encuentra en 2012, lo que significa que el 25% más antiguo de los autos en nuestra muestra
   tiene un año de modelo igual o anterior al 2012. El tercer cuartil (75%) está en 2020, lo que significa que el 75% más antiguo de los
   autos tiene un año igual o anterior al 2020.
+
+
+### Millas Recorridas
+
+Gráfico de Millas
+
+<img src="img/milage_fig.png">
+
+* Las millas recorridas oscilan desde un mínimo de 100 millas hasta un máximo de 405,000 millas.
+* El 25% de los autos recorrió 23,044 millas o menos, mientras que el 75% recorrió 94,100 millas o menos.
+* La mediana de las millas recorridas es de aproximadamente 52,775 milllas, lo que representa el valor central en la distribución.
+
+
+### Accidentes
+
+<img src="img/accident_fig.png">
+
+* 
