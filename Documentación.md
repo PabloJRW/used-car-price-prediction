@@ -30,7 +30,7 @@ este EDA es comprender cuáles son las variables que mayor correlación tienen e
 ## Exploración de Datos
 A continuación, se presentan algunos hallazgos claves del EDA:
 
-### Distribución de Precios
+##### Distribución de Precios
 
 Gráfico de Precios
 
@@ -46,7 +46,7 @@ Gráfico de Precios
 
 ### Marca de Autos
 
-Gráfico de Distribución de Marcas
+##### Gráfico de Distribución de Marcas
 
 <img src="img/brand_dist.png">
 
@@ -61,7 +61,7 @@ Gráfico de Distribución de Marcas
 
 ### Año del Modelo
 
-Gráfico de Precios
+##### Gráfico de Precios
 
 <img src="img/model_year_fig.png">
 
@@ -78,7 +78,7 @@ Gráfico de Precios
 
 ### Millas Recorridas
 
-Gráfico de Millas
+##### Gráfico de Millas Recorridas
 
 <img src="img/milage_fig.png">
 
@@ -89,6 +89,17 @@ Gráfico de Millas
 
 ### Accidentes
 
+##### Gráfico de Accidentes o Daños
+
 <img src="img/accident_fig.png">
 
-* 
+* El 75.4% de los autos en nuestro conjunto de datos no ha sido reportado con accidentes o daños. Por otra parte, el 24.6% de los autos
+  han sufrido al menos un accidente o daño.
+
+### Título Limpio 
+
+##### Gáfico de Título Limpio
+
+<img src="img/title_fig.png">
+
+* El 85.1% de los autos en nuestro conjunto de datos tiene un "título limpio".
